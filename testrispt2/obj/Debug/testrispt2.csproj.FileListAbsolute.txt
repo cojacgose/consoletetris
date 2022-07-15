@@ -1,0 +1,15 @@
+C:\Users\Code\source\repos\testrispt2\testrispt2\bin\Debug\testrispt2.exe.config
+C:\Users\Code\source\repos\testrispt2\testrispt2\bin\Debug\testrispt2.exe
+C:\Users\Code\source\repos\testrispt2\testrispt2\bin\Debug\testrispt2.pdb
+C:\Users\Code\source\repos\testrispt2\testrispt2\obj\Debug\testrispt2.csprojResolveAssemblyReference.cache
+C:\Users\Code\source\repos\testrispt2\testrispt2\obj\Debug\testrispt2.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\testrispt2\testrispt2\obj\Debug\testrispt2.exe
+C:\Users\Code\source\repos\testrispt2\testrispt2\obj\Debug\testrispt2.pdb
+D:\Code Stuff\testrispt2\testrispt2\bin\Debug\testrispt2.exe.config
+D:\Code Stuff\testrispt2\testrispt2\bin\Debug\testrispt2.exe
+D:\Code Stuff\testrispt2\testrispt2\bin\Debug\testrispt2.pdb
+D:\Code Stuff\testrispt2\testrispt2\obj\Debug\testrispt2.csproj.AssemblyReference.cache
+D:\Code Stuff\testrispt2\testrispt2\obj\Debug\testrispt2.csproj.SuggestedBindingRedirects.cache
+D:\Code Stuff\testrispt2\testrispt2\obj\Debug\testrispt2.csproj.CoreCompileInputs.cache
+D:\Code Stuff\testrispt2\testrispt2\obj\Debug\testrispt2.exe
+D:\Code Stuff\testrispt2\testrispt2\obj\Debug\testrispt2.pdb
